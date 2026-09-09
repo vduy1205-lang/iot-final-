@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+backend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database (optional - uncomment if you want fresh DB on clone)
+# backend/database.sqlite
+
+# Proteus temporary & backup files
+*.pdsbak
+*.workspace
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
